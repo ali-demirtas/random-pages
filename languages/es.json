@@ -1,0 +1,8 @@
+{
+	"plugin-data":
+	{
+		"name": "Páginas aleatorias",
+		"description": "Muestra páginas aleatorias en la barra lateral."
+	},
+	"amount-of-items": "Cantidad de items"
+}
