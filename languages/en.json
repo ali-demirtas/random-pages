@@ -1,0 +1,8 @@
+{
+	"plugin-data":
+	{
+		"name": "Random Pages",
+		"description": "Display random pages on the sidebar."
+	},
+	"amount-of-items": "Amount of items"
+}
